@@ -1,3 +1,5 @@
+FontFound has built a model with TensorFlow Lite and TensorFlow. Js, used a data pipeline to serve the model, and preprocessed the data using Missing Values Imputation.
+
 This directory includes a few sample datasets to get you started.
 
 *   `california_housing_data*.csv` is California housing data from the 1990 US
